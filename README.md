@@ -1,4 +1,4 @@
-# Hi there, I'm Jigar Parikh! 👋
+# Hi there, I'm Jigar! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
